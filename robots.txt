@@ -1,0 +1,3 @@
+Sitemap: https://neo-stroy.pro/sitemap.xml
+User-agent: *
+Allow: https://neo-stroy.pro/
